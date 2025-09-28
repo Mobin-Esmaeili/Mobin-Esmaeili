@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Be in touch:</h3>
 
 ###
 
@@ -42,14 +42,9 @@
 
 ###
 
-<h3 align="left">About me:</h3>
+<h2 align="left">About me:</h2>
 
 ###
 
-<img align="right" height="150" src="./images/mak.png"  />
-
-###
-
-<h4 align="left">Hi ,  I'm a passionate Junior Front-End Developer with a keen interest in creating responsive and user-friendly websites. I love exploring new web technologies and improving my skills every day.  Feel free to check out my projects and contributions.</h4>
-
-###
+<h5 align="left">Highly motivated and detail-oriented junior front-end developer with hands-on experience at Sazeh Consultants and Sadra, adept in HTML5, CSS3, and JavaScript. Successfully developed user-friendly features and implemented responsive designs using Tailwind CSS , Next.js , and React. Eager to learn and collaborate, organized, hardworking, responsible , and passionate about problem-solving and new
+challenges in web development.</h5>
