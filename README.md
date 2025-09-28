@@ -6,21 +6,10 @@
 
 ###
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Junior%20Front-End%20Developer&fontAlign=50&fontAlignY=40&color=gradient&desc=React%20%7C%20DNext.js%20%7C%20TS&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Junior%20Front%20Developer&fontAlign=50&fontAlignY=40&color=gradient&desc=React%20%7C%20Next.js%20%7C%20TS&descAlign=50&descAlignY=65)
 
 ###
 
-<h4 align="center">A passionate frontend developer</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amin-khodajoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amin-khodajoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=amin-khodajoo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
 
 <h3 align="left">My Skills:</h3>
 
