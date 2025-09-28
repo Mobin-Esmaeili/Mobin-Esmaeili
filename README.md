@@ -25,6 +25,21 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,nextjs,redux,git,&perline=6" />
   </a>
 </p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Zod](https://img.shields.io/badge/-Zod-3068B7?logo=zod&logoColor=white&style=flat)
+![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&logoColor=white&style=flat)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=flat)
+![Swiper](https://img.shields.io/badge/-Swiper-6332F6?logo=swiper&logoColor=white&style=flat)
+![React Toastify](https://img.shields.io/badge/-React_Toastify-FF8800?logo=react&logoColor=white&style=flat)
 
 
 
