@@ -1,8 +1,8 @@
-<h1 align="left">Amin khodajoo</h1>
+<h1 align="left">Mobin Esmaeili</h1>
 
 ###
 
-<h4 align="center">A passionate frontend developer from Iran</h4>
+<h4 align="center">A passionate frontend developer</h4>
 
 ###
 
@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,css,html,react,tailwind,bootstrap,sass,git,npm,vite,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,js,css,html,react,tailwind,bootstrap,nextjs,redux,git,&perline=6" />
   </a>
 </p>
 
@@ -38,10 +38,7 @@
     <a href="https://www.linkedin.com/in/amin-khodajoo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="51" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/amin_khodajoo2001/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="51" alt="instagram logo"  />
-  </a>
-    <a href="https://aminkhodajoo@gmail.com" target="_blank">
+    <a href="https://mobin.stp.80@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="51" alt="gmail logo"  />
   </a>
 </div>
@@ -56,7 +53,7 @@
 
 ###
 
-<h4 align="left">Hi ,  I'm a passionate Junior Front-End Developer with a keen interest in creating responsive and user-friendly websites. I love exploring new web technologies and improving my skills every day. Currently, I'm working with HTML, CSS, JavaScript, and React to build amazing web experiences. Feel free to check out my projects and contributions.</h4>
+<h4 align="left">Hi ,  I'm a passionate Junior Front-End Developer with a keen interest in creating responsive and user-friendly websites. I love exploring new web technologies and improving my skills every day.  Feel free to check out my projects and contributions.</h4>
 
 ###
 
