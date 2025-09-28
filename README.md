@@ -25,6 +25,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,nextjs,redux,git,&perline=6" />
   </a>
 </p>
+
+###
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&style=flat)
